@@ -1,81 +1,73 @@
-<h2 align="left">Hi 👋! My name is Andri and I'm an Android Developer, from Pekanbaru, Indonesia.</h2>
+### Hi there 👋 I'm Andri (pixelunox)
 
+Android Developer from Pekanbaru, Indonesia.  
+I build Android apps with Kotlin, clean architecture, and production-style workflows.
+
+- ⚡ **Fun fact:** I enjoy turning simple ideas into useful mobile apps.
+- 🎯 **Focus:** Android Development (Kotlin)
+- 💬 Talk to me about Android, Kotlin, UI/UX, and building real-world projects.
+
+---
+
+## My Skills Include
+
+<h4>Languages</h4>
+<span>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</span>
+
+<h4>Android</h4>
+<span>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/XML_UI-FF8800?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white">
+  <img src="https://img.shields.io/badge/MVVM-0F9D58?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+</span>
+
+<h4>Data</h4>
+<span>
+  <img src="https://img.shields.io/badge/Room_(SQLite)-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_API-4285F4?style=for-the-badge&logo=postman&logoColor=white">
+</span>
+
+<h4>Tools</h4>
+<span>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</span>
+
+---
+
+## Featured Projects
+> (Add your best repositories here)
+
+- **Project 1** — short description — Source: (repo link) — Demo: (YouTube link)
+- **Project 2** — short description — Source: (repo link) — Demo: (YouTube link)
+- **Project 3** — short description — Source: (repo link) — Demo: (YouTube link)
+
+---
+
+## GitHub Stats
 <p align="left">
-Android Developer focused on building clean, maintainable apps with Kotlin, modern architecture, and reliable data handling.
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelunox&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelunox&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelunox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelunox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
-
-<h3 align="left">Tech Stack</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
-</div>
-
-###
-
-<h3 align="left">Android Focus</h3>
-<ul>
-  <li>UI: XML, Material Design</li>
-  <li>Architecture: MVVM, Repository Pattern</li>
-  <li>Async: Kotlin Coroutines</li>
-  <li>Networking: REST API (Retrofit/OkHttp)</li>
-  <li>Local Data: Room (SQLite)</li>
-  <li>Tools: Android Studio, Git/GitHub</li>
-</ul>
-
-###
-
-<h3 align="left">Featured Projects</h3>
-<ul>
-  <li><b>Project 1</b> — Short description — <a href="https://github.com/pixelunox">Source</a> — Demo (YouTube)</li>
-  <li><b>Project 2</b> — Short description — <a href="https://github.com/pixelunox">Source</a> — Demo (YouTube)</li>
-  <li><b>Project 3</b> — Short description — <a href="https://github.com/pixelunox">Source</a> — Demo (YouTube)</li>
-</ul>
-
-###
-
-<h3 align="left">Connect</h3>
-<div align="left">
-  <!-- Ganti link di bawah dengan channel YouTube kamu -->
-  <a href="https://www.youtube.com/@CHANNEL_KAMU" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+<p align="center">
+  <i>Consistency beats intensity.</i>
+  <br><br>
+  <a target="_blank" href="https://www.youtube.com/@pixelunox">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img>
   </a>
-
-  <!-- Ganti EMAIL_KAMU -->
-  <a href="mailto:EMAIL_KAMU" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a target="_blank" href="mailto:andripardosi99@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a>
+</p>
 
-  <a href="https://github.com/pixelunox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pixelunox/pixelunox/output/snake.svg" alt="Snake animation" />
+<!-- Optional: Snake animation (only if you set it up) -->
+<!-- <img src="https://raw.githubusercontent.com/pixelunox/pixelunox/output/snake.svg" alt="Snake animation" /> -->
