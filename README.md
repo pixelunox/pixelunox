@@ -51,9 +51,14 @@ I build Android apps with Kotlin, clean architecture, and production-style workf
 ---
 
 ## GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelunox&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelunox&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pixelunox&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pixelunox&theme=dracula" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pixelunox&layout=compact&theme=dracula" height="150" />
 </p>
 
 ---
@@ -69,5 +74,3 @@ I build Android apps with Kotlin, clean architecture, and production-style workf
   </a>
 </p>
 
-<!-- Optional: Snake animation (only if you set it up) -->
-<!-- <img src="https://raw.githubusercontent.com/pixelunox/pixelunox/output/snake.svg" alt="Snake animation" /> -->
