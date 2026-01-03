@@ -15,6 +15,7 @@ I build Android apps with Kotlin, clean architecture, and production-style workf
 <span>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
 <h4>Android</h4>
